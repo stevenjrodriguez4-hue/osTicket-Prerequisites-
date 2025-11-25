@@ -22,9 +22,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Azure Virtual Machines
+- Remote Desktop (RDP)
+- 
 - Item 4
 - Item 5
 
